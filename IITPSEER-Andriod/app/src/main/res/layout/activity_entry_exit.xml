@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EntryExit">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_above="@+id/button_linearLayout"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/person_s_details"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:layout_weight="1"
+            android:textSize="35sp"
+            android:textColor="#000000"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="30dp" />
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="6"
+            android:layout_margin="5dp"
+            android:id="@+id/imageView_photo"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="20dp"
+            android:layout_weight="6"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:layout_marginLeft="20dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:text="@string/name"
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="16dp"
+                    tools:layout_editor_absoluteY="30dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:text="@string/phone"
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="16dp"
+                    tools:layout_editor_absoluteY="60dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_margin="5dp"
+                    android:text="@string/email"
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="18dp"
+                    tools:layout_editor_absoluteY="94dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_margin="5dp"
+                    android:text="@string/building1"
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="18dp"
+                    tools:layout_editor_absoluteY="94dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:text=""
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="16dp"
+                    tools:layout_editor_absoluteY="30dp" />
+
+                <TextView
+                    android:id="@+id/textView_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:text=""
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="16dp"
+                    tools:layout_editor_absoluteY="60dp" />
+
+                <TextView
+                    android:id="@+id/textView_email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_margin="5dp"
+                    android:text=""
+                    android:textSize="15sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="18dp"
+                    tools:layout_editor_absoluteY="94dp" />
+
+                <TextView
+                    android:id="@+id/textView_building"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_margin="5dp"
+                    android:text=""
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    tools:layout_editor_absoluteX="18dp"
+                    tools:layout_editor_absoluteY="94dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_linearLayout"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="458dp">
+
+
+        <Button
+            android:id="@+id/button_exit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#ff0011"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="@string/exit"
+            tools:layout_editor_absoluteX="255dp"
+            tools:layout_editor_absoluteY="468dp" />
+
+        <Button
+            android:id="@+id/button_entry"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00FF00"
+            android:layout_margin="5dp"
+            android:text="@string/entry"
+            tools:layout_editor_absoluteX="18dp"
+            tools:layout_editor_absoluteY="468dp" />
+
+    </LinearLayout>
+</RelativeLayout>

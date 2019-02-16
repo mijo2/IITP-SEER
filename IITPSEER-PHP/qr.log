@@ -1,0 +1,822 @@
+[03-Dec-2018 00:30:39 Asia/Kolkata] /iitpseer/people?id=1601CS53/
+	[]
+[03-Dec-2018 00:30:39 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 71
+[03-Dec-2018 00:31:02 Asia/Kolkata] /iitpseer/people?id=1601CS53/
+	[]
+[03-Dec-2018 00:31:02 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 67
+[03-Dec-2018 00:31:26 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 00:31:26 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 67
+[03-Dec-2018 00:32:29 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 00:32:29 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 66
+[03-Dec-2018 00:32:49 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 00:32:49 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 66
+[03-Dec-2018 00:34:10 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 00:34:10 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 66
+[03-Dec-2018 00:34:49 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 00:36:38 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 00:37:17 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 00:41:02 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:04:51 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:04:54 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:04:55 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:08:16 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 02:08:16 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 78
+[03-Dec-2018 02:13:57 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 02:14:33 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 02:14:46 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 02:22:15 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:51:24 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:51:24 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 65
+[03-Dec-2018 02:51:37 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:51:37 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 65
+[03-Dec-2018 02:52:04 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:52:04 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /opt/lampp/htdocs/iitpseer/render/qr.php on line 65
+[03-Dec-2018 02:52:49 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:53:18 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:54:27 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:54:53 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 02:54:58 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 12:19:55 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 12:20:53 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 15:20:25 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 15:46:01 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 15:54:56 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 15:56:17 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 15:56:29 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 15:56:29 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 23
+[03-Dec-2018 15:56:29 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 24
+[03-Dec-2018 15:56:29 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 25
+[03-Dec-2018 15:56:36 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 15:56:36 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 23
+[03-Dec-2018 15:56:36 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 24
+[03-Dec-2018 15:56:36 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 25
+[03-Dec-2018 15:56:40 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 15:56:40 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 23
+[03-Dec-2018 15:56:40 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 24
+[03-Dec-2018 15:56:40 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 25
+[03-Dec-2018 15:57:43 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 15:57:43 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 23
+[03-Dec-2018 15:57:43 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 24
+[03-Dec-2018 15:57:43 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 25
+[03-Dec-2018 16:03:30 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:03:30 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:03:30 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:03:30 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:03:30 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:03:56 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:04:39 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:04:39 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:04:39 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:04:39 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:04:39 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:05:21 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:06:02 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:06:24 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:06:24 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:06:24 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:06:24 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:06:24 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:06:52 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:06:59 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:06:59 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:06:59 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:06:59 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:06:59 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:07:29 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:07:42 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:07:56 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:08:16 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:08:16 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:08:16 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:08:16 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:08:17 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:13:24 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:13:28 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:13:32 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:13:37 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:13:54 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:13:54 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:13:54 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:13:54 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:13:55 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:14:08 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:14:09 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:14:09 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:14:09 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:14:09 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:14:09 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:14:28 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:16:08 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:16:08 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:16:08 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:16:08 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:18:08 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:18:18 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:18:29 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:18:32 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:26:26 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:26:44 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:31:04 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:31:05 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:31:17 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:31:25 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:32:06 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:32:06 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:32:06 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:32:06 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:32:24 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:32:24 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:32:24 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:32:24 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:34:32 Asia/Kolkata] /iitpseer/Exit/
+	[]
+[03-Dec-2018 16:34:32 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 21
+[03-Dec-2018 16:34:32 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 22
+[03-Dec-2018 16:34:32 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 23
+[03-Dec-2018 16:35:20 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:35:57 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:36:07 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:36:13 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:36:23 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:36:31 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:36:43 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:38:39 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:38:55 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:39:07 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:40:50 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:40:56 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:41:04 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:41:12 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:41:25 Asia/Kolkata] /iitpseer/Exit/
+	{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:41:34 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:42:24 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:42:37 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:42:47 Asia/Kolkata] /iitpseer/Exit/
+	[]
+[03-Dec-2018 16:42:47 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 21
+[03-Dec-2018 16:42:47 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 22
+[03-Dec-2018 16:42:47 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 23
+[03-Dec-2018 16:42:48 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:43:19 Asia/Kolkata] /iitpseer/Entry/\n\t{"ID":"1601CS53","BuildingNo":"1","FullName":"Dhanush S R"}
+[03-Dec-2018 16:43:41 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:43:45 Asia/Kolkata] /iitpseer/Exit/
+	[]
+[03-Dec-2018 16:43:45 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 21
+[03-Dec-2018 16:43:45 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 22
+[03-Dec-2018 16:43:45 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 23
+[03-Dec-2018 16:43:46 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:46:49 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:47:42 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:47:54 Asia/Kolkata] /iitpseer/Exit/
+	[]
+[03-Dec-2018 16:47:54 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 21
+[03-Dec-2018 16:47:54 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 22
+[03-Dec-2018 16:47:54 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Exit.php on line 23
+[03-Dec-2018 16:47:54 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:52:03 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:52:04 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:52:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:52:04 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:52:04 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:52:05 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:52:05 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:52:05 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:52:05 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:52:18 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:52:18 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:52:18 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:52:18 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:52:18 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:56:02 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 16:56:10 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 16:56:14 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 16:56:14 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 16:56:14 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 16:56:14 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 16:56:15 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:02:47 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:03:15 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:03:26 Asia/Kolkata] /iitpseer/Entry/\n\t[]
+[03-Dec-2018 17:03:26 Asia/Kolkata] PHP Notice:  Undefined index: ID in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 20
+[03-Dec-2018 17:03:26 Asia/Kolkata] PHP Notice:  Undefined index: BuildingNo in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 21
+[03-Dec-2018 17:03:26 Asia/Kolkata] PHP Notice:  Undefined index: FullName in /opt/lampp/htdocs/iitpseer/render/Entry.php on line 22
+[03-Dec-2018 17:03:26 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:27:24 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:27:30 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:27:36 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:29:23 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:29:33 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:29:40 Asia/Kolkata] /iitpseer/Exit/
+	{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:29:45 Asia/Kolkata] /iitpseer/Exit/
+	{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:29:45 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:31:31 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:31:33 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:31:36 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:31:43 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:31:43 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:31:57 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:31:59 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:32:03 Asia/Kolkata] /iitpseer/Exit/
+	{"BuildingNo":"0","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:32:04 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:32:07 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:32:08 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"0","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:32:09 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:32:13 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:32:14 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"0","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:32:15 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:32:16 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 17:32:18 Asia/Kolkata] /iitpseer/Exit/
+	{"BuildingNo":"0","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 17:32:19 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:45:09 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:46:55 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:52:14 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 17:59:18 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:23:36 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:24:15 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 18:28:55 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:29:04 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 18:29:08 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:50:23 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:50:31 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:53:51 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:57:32 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:57:43 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:58:14 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 18:58:18 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:01:58 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:02:58 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:04:48 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:04:51 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:05:59 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:08:51 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:08:54 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:09:42 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:10:32 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:13:18 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:14:09 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:22:04 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 19:54:12 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:05:47 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:06:09 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 20:06:34 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:06:51 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 20:06:53 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:22:12 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:22:28 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 20:24:51 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:25:07 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 20:39:25 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:39:55 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 20:40:59 Asia/Kolkata] /iitpseer/building/
+	[]
+[03-Dec-2018 20:42:04 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[03-Dec-2018 20:42:12 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[03-Dec-2018 20:42:15 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 00:26:19 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 00:26:19 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /opt/lampp/htdocs/iitpseer/render/building.php on line 37
+[04-Dec-2018 00:26:33 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 00:26:33 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /opt/lampp/htdocs/iitpseer/render/building.php on line 37
+[04-Dec-2018 00:26:44 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 00:26:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /opt/lampp/htdocs/iitpseer/render/building.php on line 37
+[04-Dec-2018 00:36:37 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 00:36:55 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 00:37:13 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[04-Dec-2018 00:37:13 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 00:37:46 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 00:37:47 Asia/Kolkata] /iitpseer/Exit/
+	{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[04-Dec-2018 00:37:47 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 21:31:01 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 21:31:17 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 21:31:31 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[04-Dec-2018 21:31:32 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 21:31:51 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 21:31:53 Asia/Kolkata] /iitpseer/Exit/
+	{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[04-Dec-2018 21:31:53 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 21:35:25 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 21:35:41 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 21:35:42 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 21:35:49 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[04-Dec-2018 21:35:49 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:24:21 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:24:55 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:24:55 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:24:55 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 22:24:55 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:24:55 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:24:55 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 22:29:13 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:29:22 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:29:22 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:29:22 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:29:22 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:29:22 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:29:22 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:30:01 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:30:09 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:30:09 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:30:09 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:30:09 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:30:09 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:30:09 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:30:11 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:30:15 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:30:19 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:32:00 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:32:04 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:32:04 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:32:04 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:32:04 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:32:04 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:32:04 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:32:13 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:32:20 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:32:20 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:32:20 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:32:20 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:32:20 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:32:20 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:32:38 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:32:39 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:32:50 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:32:50 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:32:50 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:32:50 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:32:50 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:32:50 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:33:43 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:33:53 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:33:53 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:33:53 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:33:53 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:33:53 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:33:53 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:37:27 Asia/Kolkata] PHP Notice:  Undefined index: message in /opt/lampp/htdocs/iitpseer/render/qr.php on line 22
+[04-Dec-2018 22:37:27 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 22:37:27 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 22:37:54 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	[]
+[04-Dec-2018 22:38:55 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:39:05 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:39:12 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:40:21 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:40:22 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:40:26 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:40:28 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:40:38 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:40:43 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:40:46 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:40:49 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:40:52 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:42:55 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:42:57 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:43:04 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:43:20 Asia/Kolkata] /iitpseer/people?id=1601CS53
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab"}
+[04-Dec-2018 22:43:24 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 22:52:34 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 22:52:34 Asia/Kolkata] PHP Notice:  Undefined variable: secret_key in /opt/lampp/htdocs/iitpseer/render/qr.php on line 68
+[04-Dec-2018 22:53:33 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 22:53:33 Asia/Kolkata] PHP Notice:  Undefined variable: secret_key in /opt/lampp/htdocs/iitpseer/render/qr.php on line 71
+[04-Dec-2018 22:54:19 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 22:54:19 Asia/Kolkata] PHP Notice:  Undefined variable: secret_key in /opt/lampp/htdocs/iitpseer/render/qr.php on line 71
+[04-Dec-2018 22:55:33 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 22:55:57 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 22:56:12 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:02:41 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 23:04:39 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 23:04:39 Asia/Kolkata] PHP Notice:  Trying to get property 'token' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 25
+[04-Dec-2018 23:04:39 Asia/Kolkata] PHP Notice:  Trying to get property 'name' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 26
+[04-Dec-2018 23:04:39 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"1601CS53"}
+[04-Dec-2018 23:04:39 Asia/Kolkata] PHP Notice:  Trying to get property 'roll' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 24
+[04-Dec-2018 23:04:39 Asia/Kolkata] PHP Notice:  Trying to get property 'token' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 25
+[04-Dec-2018 23:04:39 Asia/Kolkata] PHP Notice:  Trying to get property 'name' of non-object in /opt/lampp/htdocs/iitpseer/render/qr.php on line 26
+[04-Dec-2018 23:04:39 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"1601CS53"}
+[04-Dec-2018 23:04:40 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 23:04:47 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:04:56 Asia/Kolkata] /iitpseer/Entry/\n\t{"BuildingNo":"1","FullName":"Dhanush S R","ID":"1601CS53"}
+[04-Dec-2018 23:04:57 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 23:06:01 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:06:01 Asia/Kolkata] PHP Notice:  Undefined variable: apiKey in /opt/lampp/htdocs/iitpseer/render/qr.php on line 65
+[04-Dec-2018 23:06:01 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:06:01 Asia/Kolkata] PHP Notice:  Undefined variable: apiKey in /opt/lampp/htdocs/iitpseer/render/qr.php on line 65
+[04-Dec-2018 23:06:05 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 23:12:13 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:12:56 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:13:03 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:13:11 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:16:48 Asia/Kolkata] /iitpseer/building/
+	[]
+[04-Dec-2018 23:17:09 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:17:19 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[04-Dec-2018 23:17:19 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 00:03:07 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:03:08 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:03:09 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 00:03:29 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:03:31 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:03:31 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 00:03:45 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:03:47 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:03:48 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 00:04:37 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:04:38 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:04:39 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 00:05:05 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:05:06 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:05:06 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 00:05:18 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:05:20 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:05:20 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 00:08:19 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:08:31 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:08:39 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:11:01 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:11:02 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:11:17 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:12:23 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:12:24 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:12:27 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:16:24 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:16:27 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:16:30 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:16:46 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:16:49 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:16:53 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:21:55 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:21:56 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:22:00 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:23:00 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:23:14 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:23:42 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:24:01 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:24:10 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:24:18 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:24:24 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:25:15 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:25:17 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:25:20 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:26:59 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:27:03 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:27:12 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:27:15 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:30:32 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:30:33 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:30:36 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:35:25 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:35:25 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:35:28 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:35:39 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:35:40 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:35:43 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:36:05 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:36:51 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:39:23 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:39:35 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:39:47 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:39:50 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:40:02 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:40:15 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:40:16 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 00:40:22 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Dhanush S R\",\n\"roll\":\"1601CS53\",\n\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 02:11:00 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 02:11:03 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Mridula\",\"roll\":\"1601DS53\",\"token\":\"7c3d5f70839e52d0cb6274eee4b202a452300fad\"}"}
+[05-Dec-2018 02:11:15 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 02:11:18 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Test34\",\"roll\":\"1601XS52\",\"token\":\"11600d2f6443deb7088c5546eb55340d5261f582\"}"}
+[05-Dec-2018 02:11:31 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 02:11:40 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Mridula\",\"roll\":\"1601DS53\",\"token\":\"7c3d5f70839e52d0cb6274eee4b202a452300fad\"}"}
+[05-Dec-2018 02:11:42 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 02:18:17 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 02:19:16 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush\",\"roll\":\"1601CS50\",\"token\":\"877a6c3c434af31be7fba2264fdf9b734f9928b7\"}"}
+[05-Dec-2018 02:19:49 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 02:19:56 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush\",\"roll\":\"1601CS50\",\"token\":\"877a6c3c434af31be7fba2264fdf9b734f9928b7\"}"}
+[05-Dec-2018 02:20:18 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 04:11:20 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 04:11:30 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 04:11:32 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 04:11:33 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 04:11:54 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 04:11:56 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 04:11:56 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 05:19:09 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 05:25:24 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Milan Jolly\",\"roll\":\"1601CS25\",\"token\":\"5e84b364290c7291b66cf5ac60e66098156da7a0\"}"}
+[05-Dec-2018 05:25:30 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Milan Jolly\",\"roll\":\"1601CS25\",\"token\":\"5e84b364290c7291b66cf5ac60e66098156da7a0\"}"}
+[05-Dec-2018 05:25:30 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 05:25:53 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Milan Jolly\",\"roll\":\"1601CS25\",\"token\":\"5e84b364290c7291b66cf5ac60e66098156da7a0\"}"}
+[05-Dec-2018 05:25:56 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Milan Jolly\",\"roll\":\"1601CS25\",\"token\":\"5e84b364290c7291b66cf5ac60e66098156da7a0\"}"}
+[05-Dec-2018 05:25:56 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 05:26:34 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Milan Jolly\",\"roll\":\"1601CS25\",\"token\":\"5e84b364290c7291b66cf5ac60e66098156da7a0\"}"}
+[05-Dec-2018 05:26:35 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"2","message":"{\"name\":\"Milan Jolly\",\"roll\":\"1601CS25\",\"token\":\"5e84b364290c7291b66cf5ac60e66098156da7a0\"}"}
+[05-Dec-2018 05:26:35 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 11:53:26 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 12:00:05 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:00:17 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:00:17 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 12:00:40 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:00:42 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:00:42 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 12:09:19 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:09:29 Asia/Kolkata] /iitpseer/Entry/\n\t{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:09:30 Asia/Kolkata] /iitpseer/building/
+	[]
+[05-Dec-2018 12:09:50 Asia/Kolkata] /iitpseer/people/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:09:52 Asia/Kolkata] /iitpseer/Exit/
+	{"APIKey":"7ec992283ee0ce3b8df55159cec4fd37a6bd31ab","BuildingNo":"1","message":"{\"name\":\"Dhanush S R\",\"roll\":\"1601CS53\",\"token\":\"cfa01fb2b0ddb4f741327bd721912d7aeaffeda0\"}"}
+[05-Dec-2018 12:09:52 Asia/Kolkata] /iitpseer/building/
+	[]

@@ -1,0 +1,228 @@
+/*
+  Pure CSS dropdown with fade effect
+
+  8th Aug 2013
+  Updated to use pseudo-elements instead of   <i> for arrows
+
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,500);
+
+/*
+  pad the body and set default font styles
+*/
+body {
+ padding: 25px; 
+ font: 300 16px/1.2 Ubuntu;
+}
+
+/* 
+  mark item with differing style 
+*/
+.mark {
+  font-weight: 400;
+}
+
+/*
+  navigation bar
+*/
+.nav {
+  list-style: none;
+}
+
+/* 
+  top menu list items
+
+  1. stack top links side by side 
+  2. needed for absolute positioning of   submenu
+*/
+.nav li {
+  float: left; /*1*/
+  position: relative; /*2*/
+  background: #34495e;
+}
+
+/* 
+  top level rounded corners
+
+  1. first top level li edges round 
+  2. first top level link edges round (this keeps the border radius on hover)
+*/
+.nav > li:first-of-type, /* 1 */
+.nav > li:first-of-type a { /* 2 */
+  border-radius: 5px 0 0 5px;
+}
+
+/* 
+  1. last top level li edges round 
+  2. last top level link edges round (this keeps the border radius on hover)
+*/
+.nav > li:last-of-type, /* 1 */
+.nav > li:last-of-type a { /* 2 */
+  border-radius: 0 5px 5px 0;
+}
+
+/*
+  all links - these styles will cascade down to submenu (some will be overwritten further down)
+*/
+
+/*
+  1. make links block item
+  2. remove link underline
+  3. makes the transition smoother when hovering off a link 
+*/
+.nav li a {
+  display: block; /*1*/
+  padding: 10px 12px;
+  text-decoration: none; /*2*/
+  color: #fff;
+  transition: all ease .5s; /*3*/
+}
+
+/*
+    on hovering over ul make links fade out
+*/
+.nav:hover li a {
+  opacity: .5;
+  transition: all ease .5s;
+}
+
+/*
+  override previous rule for when hovering over individual link
+*/
+.nav li:hover a {
+  opacity: 1;
+}
+/* 
+  submenu default styles
+
+  1. keeps submenu relative to parent
+  2. creates (illusion of) margin but stops submenu dissappearing when hovering in space
+  3. hide - CHANGE
+*/
+.submenu {
+  position: absolute; /*1*/
+  border-top: 15px solid transparent; /*2*/
+  left: -9999px /*3*/
+}
+
+/*
+  show submenu 
+
+  1. show sub
+*/
+.nav li:hover > .submenu {
+  left: 0;
+}
+
+/*
+  WORK IN PROGRESS (spacing could be better)
+
+  CSS down arrow for top menu
+  2. Hide off screen
+
+*/
+.has-submenu:after {
+   position: relative;
+   content: "";
+   top: 10px;
+   margin: 0 -5px 4px 5px;
+   /* borders to make down arrow */
+	 border-left: 5px solid transparent;
+	 border-right: 5px solid transparent;
+	 border-top: 5px solid #3498DB;
+   opacity: .7;
+   transition: all ease .3s;
+}
+
+/*
+  down arrow hover style
+*/
+.nav > li:hover .has-submenu:after {
+  opacity: 1;
+} 
+
+/*
+  CSS up arrow for submenu
+
+  1. add spacing between top menu and arrow
+  2. Hide off screen
+
+*/
+
+.submenu:before {
+ content: ""; 
+ position: absolute;
+ z-index: 1; /* bring in front of border */
+ margin-top: 5px; /*1*/
+ left: -9999px; /*2*/
+ top: -15px;
+ /* borders for up arrow */
+ border-left: 10px solid transparent;
+ border-right: 10px solid transparent;
+ border-bottom: 10px solid #34495e;
+}
+
+/*
+  1. make arrow reappear and move away from left side
+*/
+.nav li:hover .submenu:before {
+  left: 15px; /*1*/
+}
+
+/* 
+  1. prevent multi line submenu items 
+  2. tidy up padding on submenu items
+*/
+.submenu li {
+  white-space: nowrap; /*1*/
+  padding: 1px; /*2*/
+}
+
+/* 
+  submenu rounded corners
+
+  1. top rounded edges on submenu
+*/
+.submenu > li:first-of-type {
+  border-radius: 5px 5px 0 0; /*1*/
+}
+
+/*
+  1. bottom rounded edges on submenu
+*/
+.submenu > li:last-of-type {
+  border-radius: 0 0 5px 5px; /*1*/
+}
+
+/* 
+  persistant top level hover state 
+  when submenu displays 
+*/
+.nav > li:hover > a {
+  background: #2C3E50;
+  transition: background ease .5s;
+} 
+
+/* 
+  submenu links 
+
+  styles are inherited from .nav li a, so some adjustments are made here.
+
+  1. make slightly smaller
+  2. margin means on hover bg doesn't touch the edges
+  3. add transition
+*/
+.submenu a {
+  font-size: 90%; /*1*/
+  margin: 3px; /*2*/
+  border-radius: 5px;
+  transition: background ease .3s; /*3*/
+}
+
+/* 
+  submenu hover styles
+*/
+.submenu a:hover {
+  background: #3498DB;
+}

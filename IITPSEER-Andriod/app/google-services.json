@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "244945999852",
+    "firebase_url": "https://iitpseer.firebaseio.com",
+    "project_id": "iitpseer",
+    "storage_bucket": "iitpseer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244945999852:android:abe02b341d830a0c",
+        "android_client_info": {
+          "package_name": "com.cs354.iitp.iitpseer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244945999852-7fb7r3kk93qfvkm4khp2e1b5jlkkcqbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs354.iitp.iitpseer",
+            "certificate_hash": "0b2fdb951f484c85afbcd86e90623f1331c307d6"
+          }
+        },
+        {
+          "client_id": "244945999852-pva32h1399esj6hvngh0u7t1rqssl099.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJk75HdZFG8uWsAzEvvK5JCbiEIvqJJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244945999852-pva32h1399esj6hvngh0u7t1rqssl099.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

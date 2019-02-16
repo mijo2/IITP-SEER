@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /iitpseer/index.php/?$1 [L]
+
+php_flag display_errors on
+php_value error_reporting 6143
+ErrorDocument 500 "500 internal server error!"
+ErrorDocument 403 "403 Access forbidden"

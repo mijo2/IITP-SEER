@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IITPSEER</string>
+    <string name="focus_on_qr_code">Focus on QR Code</string>
+    <string name="select_a_building">Select a Building</string>
+    <string name="building">Building</string>
+    <string name="building_1">Building :</string>
+    <string name="please_select_a_building_first">Please Select a Building First</string>
+    <string name="please_select_a_building_first1">Please Select a Building First!!</string>
+    <string name="please_choose_a_building">Please Choose a Building!</string>
+    <string name="entry">Entry</string>
+    <string name="exit">Exit</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="building1">Building:</string>
+    <string name="person_s_details">Person\'s Details</string>
+</resources>
